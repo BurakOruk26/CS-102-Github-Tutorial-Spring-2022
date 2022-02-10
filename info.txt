@@ -1,2 +1,47 @@
 Burak Oruk - 22102443 - https://github.com/BurakOruk26
 Dishonored, Dark Souls III, Witcher III, Devil May Cry V
+
+commit cd2ec46747bb6a6c7a34278ce96fb0b6a390a4c1 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8451ae6 bfbec7f
+Author: BurakOruk26 <burakoruk2002@gmail.com>
+Date:   Thu Feb 10 21:59:28 2022 +0300
+
+    Merge branch 'new_information' into main
+
+commit bfbec7f7d863153ef25369f0e9e0729780a63c1e (origin/new_information, new_information)
+Author: BurakOruk26 <burakoruk2002@gmail.com>
+Date:   Thu Feb 10 21:53:05 2022 +0300
+
+    Favourite Video Game added
+
+commit 8451ae67f5ac22df5fb13b2359ded1d8724a0feb
+Author: BurakOruk26 <burakoruk2002@gmail.com>
+Date:   Thu Feb 10 21:49:56 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit 834f188d897584c246eaf6f555689c6ef057af5d
+Author: Burak Oruk <91758706+BurakOruk26@users.noreply.github.com>
+:
+commit cd2ec46747bb6a6c7a34278ce96fb0b6a390a4c1 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8451ae6 bfbec7f
+Author: BurakOruk26 <burakoruk2002@gmail.com>
+Date:   Thu Feb 10 21:59:28 2022 +0300
+
+    Merge branch 'new_information' into main
+
+commit bfbec7f7d863153ef25369f0e9e0729780a63c1e (origin/new_information, new_information)
+Author: BurakOruk26 <burakoruk2002@gmail.com>
+Date:   Thu Feb 10 21:53:05 2022 +0300
+
+    Favourite Video Game added
+
+commit 8451ae67f5ac22df5fb13b2359ded1d8724a0feb
+Author: BurakOruk26 <burakoruk2002@gmail.com>
+Date:   Thu Feb 10 21:49:56 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit 834f188d897584c246eaf6f555689c6ef057af5d
+Author: Burak Oruk <91758706+BurakOruk26@users.noreply.github.com>
+:
